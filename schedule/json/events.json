@@ -1,0 +1,125 @@
+[
+  {
+    "title": "All Day Event",
+    "start": "2015-02-01"
+  },
+  {
+    "title": "Long Event",
+    "start": "2015-02-07",
+    "end": "2015-02-10"
+  },
+  {
+    "id": "999",
+    "title": "Repeating Event",
+    "start": "2015-02-09T16:00:00-05:00"
+  },
+  {
+    "id": "999",
+    "title": "Repeating Event",
+    "start": "2015-02-16T16:00:00-05:00"
+  },
+  {
+    "title": "Conference",
+    "start": "2015-02-11",
+    "end": "2015-02-13"
+  },
+  {
+    "title": "Meeting",
+    "start": "2015-02-12T10:30:00-05:00",
+    "end": "2015-02-12T12:30:00-05:00"
+  },
+  {
+    "title": "Lunch",
+    "start": "2015-02-12T12:00:00-05:00"
+  },
+  {
+    "title": "Meeting",
+    "start": "2015-02-12T14:30:00-05:00"
+  },
+  {
+    "title": "Happy Hour",
+    "start": "2015-02-12T17:30:00-05:00"
+  },
+  {
+    "title": "Dinner",
+    "start": "2015-02-12T20:00:00"
+  },
+  {
+    "title": "Epic Information Session",
+    "start": "2015-11-11 18:00",
+    "end": "2015-11-11 19:00",
+    "description": "Grainger Hall 3070"
+  },
+  {
+  	"title": "Kickoff Event and General Electric Information Session",
+    "start": "2015-09-14 18:00",
+    "end": "2015-09-14 19:00",
+    "description": "Grainger Hall 1180"
+  },
+  {
+  	"title": "Accenture Information Session",
+    "start": "2015-09-30 18:00",
+    "end": "2015-09-30 19:00",
+    "description": "Grainger Hall 1270"
+  },
+  {
+  	"title": "General Member Presentations: (iOS and Why are there so many programming languages?)",
+    "start": "2015-10-14 18:00",
+    "end": "2015-10-14 19:00",
+    "description": "Grainger Hall 1185"
+  },
+  {
+  	"title": "Cuna Mutual Information Session",
+    "start": "2015-10-28 18:00",
+    "end": "2015-10-28 19:00",
+    "description": "Grainger Hall 2190"
+  },
+  {
+  	"title": "Social Event: Bowling",
+    "start": "2015-11-18 18:00",
+    "end": "2015-11-18 19:00",
+    "description": "Union South"
+  },
+  {
+  	"title": "Final General Member Meeting",
+    "start": "2015-12-02 18:00",
+    "end": "2015-12-02 19:00",
+    "description": "TBD"
+  },
+  {
+    "title": "Welcome Event",
+    "start": "2016-02-03 18:00",
+    "end": "2016-02-03 19:00",
+    "description": "Grainger Hall - room 2185"
+  },
+  {
+    "title": "Software Training",
+    "start": "2016-02-17 18:00",
+    "end": "2016-02-17 19:00",
+    "description": "Animal Sciences - room 150"
+  },
+  {
+    "title": "PwC Information Session",
+    "start": "2016-03-02 18:00",
+    "end": "2016-03-02 19:00",
+    "description": "Grainger Hall - room 2180"
+  },
+  {
+    "title": "Epic Field Trip",
+    "start": "2016-04-01",
+    "end": "2016-04-01",
+    "description": "Epic Campus"
+  },
+  {
+    "title": "Social event",
+    "start": "2016-04-06 18:00",
+    "end": "2016-04-06 19:00",
+    "description": "TBA"
+  },
+  {
+    "title": "Final Meeting",
+    "start": "2016-04-20 18:00",
+    "end": "2016-04-20 19:00",
+    "description": "TBA"
+  }
+]
